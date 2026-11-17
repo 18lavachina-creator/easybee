@@ -4,7 +4,7 @@
   "description": "Step-by-step guides for everyday tasks.",
   "start_url": ".",
   "display": "browser",
-  "background_color": "#f4f4f6",
+  "background_color": "#f8f8fa",
   "theme_color": "#FFC93C",
   "icons": [
     {
